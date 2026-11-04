@@ -15,3 +15,5 @@ for frequency in remainder_frequencies.values():
     pairs += frequency * (frequency - 1) / 2
 
 print(int(pairs))
+
+# modular arithmetic, used choose
